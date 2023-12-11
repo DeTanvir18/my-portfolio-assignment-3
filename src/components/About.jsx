@@ -3,7 +3,7 @@
 const About = () => {
     return (
         <div id="About">
-            <div className="lg:px-56 px-10 lg:py-0 py-20 lg:text-start text-center gap-5 flex lg:flex-row flex-col-reverse justify-between items-center lg:gap-28">
+            <div className="lg:px-56 px-10 lg:py-0 py-20 lg:text-start text-center gap-5 flex lg:flex-row flex-col justify-between items-center lg:gap-28">
                 <img data-aos="fade-down" src="https://i.ibb.co/jMcxJqX/Tanvir.jpg" alt="" className="h-72 w-72 rounded p-1 border border-fuchsia-500" />
                 <div className="h-full lg:py-40 flex flex-col justify-center items-center lg:items-start text-white">
                     <h1 data-aos="fade-right" className="text-[52px] font-semibold mb-8 leading-normal uppercase text-fuchsia-500">About Me</h1>

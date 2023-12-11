@@ -1,6 +1,7 @@
 import About from "./components/About";
 import Banner from "./components/Banner";
 import Navbar from "./components/Navbar";
+import Projects from "./components/Projects";
 import Services from "./components/Services";
 
 
@@ -11,6 +12,7 @@ const App = () => {
       <Banner></Banner>
       <About></About>
       <Services></Services>
+      <Projects></Projects>
     </div>
   );
 };
